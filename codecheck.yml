@@ -1,0 +1,5 @@
+build:
+  - echo 'Oh Yes!'
+env:
+  SANDBOX_VARIABLE: test
+test: "echo \"Error: no test specified\" && exit 1"

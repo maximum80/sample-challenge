@@ -1,0 +1,23 @@
+{
+  "name" : "challenge-sandbox",
+  "version" : "1.0.0",
+  "description" : "Play free",
+  "main" : "index.js",
+  "scripts" : {
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git+https://github.com/givery-technology/challenge-sandbox.git"
+  },
+  "author" : "Givery Inc.",
+  "license" : "ISC",
+  "bugs" : {
+    "url" : "https://github.com/givery-technology/challenge-sandbox/issues"
+  },
+  "homepage" : "https://github.com/givery-technology/challenge-sandbox#readme",
+  "devDependencies" : {
+    "chai" : "^3.2.0",
+    "codecheck" : "^0.3.0"
+  }
+}
