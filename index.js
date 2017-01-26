@@ -1,3 +1,5 @@
-'use strict';
+"use strict";
 
-console.log("I am Java");
+const main = require("./app/main");
+
+main(process.argv.slice(2));
